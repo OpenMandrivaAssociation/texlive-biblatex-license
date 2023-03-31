@@ -1,6 +1,6 @@
 Name:		texlive-biblatex-license
 Version:	58437
-Release:	1
+Release:	2
 Summary:	Add license data to the bibliography
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-license
