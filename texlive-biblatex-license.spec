@@ -3,7 +3,7 @@ Version:	58437
 Release:	2
 Summary:	Add license data to the bibliography
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-license
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-license
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-license.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-license.doc.r%{version}.tar.xz
